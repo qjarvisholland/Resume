@@ -1,3 +1,5 @@
+This resume uses the following Latex Template
+
 Deedy-Resume-Reversed
 =========================
 
