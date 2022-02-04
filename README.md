@@ -1,7 +1,8 @@
 
 Quinn JH engineer resume
 =========================
-Hi! This is the source repo for my most recent resume, which is the .pdf file in this repo above :)
+Hi! This is the source repo for my most recent engineering resume, which is the .pdf file in this repo above :)
+
 Below is the information about the template I forked to bring some order to my chaos.
 
 Deedy-Resume-Reversed
