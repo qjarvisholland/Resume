@@ -1,3 +1,5 @@
+Quinn JH engineer resume
+Hi! This is the source repo for my most recent resume, which is the .pdf file in this repo above :)
 
 Deedy-Resume-Reversed
 =========================
@@ -10,10 +12,6 @@ It is licensed under the Apache License 2.0.
 ## Motivation
 
 This is a modified fork of the [Deedy-Resume by Deedy](https://github.com/Deedy/Deedy-Resume) 
-
-## Preview
-
-![alt tag](https://raw.githubusercontent.com/ZDTaylor/Deedy-Resume/master/sample-image.png)
 
 ## Dependencies
 
